@@ -1,2 +1,7 @@
-package day08_PracticeTask;public class Shape {
+package day08_PracticeTask;
+
+import java.util.*;
+
+public class Shape {
+
 }

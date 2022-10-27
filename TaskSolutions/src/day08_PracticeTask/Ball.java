@@ -1,2 +1,8 @@
-package day08_PracticeTask;public class Ball {
+package day08_PracticeTask;
+
+import day09_PracticeTask.A;
+
+public class Ball {
+
+
 }

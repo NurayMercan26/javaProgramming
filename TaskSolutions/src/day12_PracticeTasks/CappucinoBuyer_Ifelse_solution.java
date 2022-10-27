@@ -1,6 +1,6 @@
 package day12_PracticeTasks;
 
-public class CappucinoBuyer_IfSwitch_solution {
+public class CappucinoBuyer_Ifelse_solution {
 
     public static void main(String[] args) {
 

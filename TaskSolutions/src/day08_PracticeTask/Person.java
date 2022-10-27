@@ -1,2 +1,6 @@
-package day08_PracticeTask;public class Person {
+package day08_PracticeTask;
+
+public class Person {
+
+
 }

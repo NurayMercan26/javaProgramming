@@ -1,2 +1,12 @@
-package day44_Abstraction.AnimalTask;public interface Playable {
+package day44_Abstraction.AnimalTask;
+
+public interface Playable {
+    boolean isFriendly = true;//static & final by default
+/*
+    public static void method1(){
+        System.out.println(isFriendly);
+    }
+
+ */
+    void play();// abstract by default
 }

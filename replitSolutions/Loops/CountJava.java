@@ -1,2 +1,44 @@
-package Loops;public class CountJava {
+package Loops;
+
+import java.util.Scanner;
+
+public class CountJava {
+    public static void main(String[] args) {
+
+        Scanner scan= new Scanner(System.in);
+        String word= scan.nextLine();
+        int countOfJava=0;
+        int lastIndex=0;
+        while (lastIndex !=-1){
+            lastIndex= word.indexOf("java",lastIndex);
+            if(lastIndex!=-1){
+                countOfJava++;
+                lastIndex+="java".length();
+            }
+        }
+        System.out.println(countOfJava);
+
+
+    }
 }
+/*
+Print the number of times that the string "java" appears anywhere in the given string **word**
+
+Example:
+
+```
+input: javaxjava
+
+output: 2
+```
+
+
+Example:
+
+
+```
+input: javaxjavaapplepearjavaegg
+
+output: 3
+```
+ */

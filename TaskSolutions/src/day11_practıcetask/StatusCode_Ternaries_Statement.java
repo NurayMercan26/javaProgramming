@@ -1,6 +1,6 @@
 package day11_practıcetask;
 
-public class StatusCode_Switch_Statement {
+public class StatusCode_Ternaries_Statement {
 
     public static void main(String[] args) {
 
