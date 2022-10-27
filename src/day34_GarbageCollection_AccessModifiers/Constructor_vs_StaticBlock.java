@@ -1,0 +1,2 @@
+package day34_GarbageCollection_AccessModifiers;public class Constructor_vs_StaticBlock {
+}
