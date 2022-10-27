@@ -1,4 +1,4 @@
-package day18_PracticeTasks;
+package day16_PracticeTasks.day18_PracticeTasks;
 import java.util.Scanner;
 public class RoomReservation {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package day11_practıcetask;
 
-public class CappucinoBuyer_Switch_Solution {
+public class CappucinoBuyer_ternaries_Solution {
     public static void main(String[] args) {
 
         double price=3.89;

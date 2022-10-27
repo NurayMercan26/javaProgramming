@@ -1,4 +1,4 @@
-package day36_Inheritance.encapsulation.animalTask;
+package day36_Inheritance.animalTask;
 
 public class Cat extends Animal{// Cat is an animal
 
